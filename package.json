@@ -2,6 +2,7 @@
   "name": "chelsea-luevano-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chelsealuevano.github.io/Chelsea-Luevano-Portfolio/",
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "@testing-library/jest-dom": "^5.16.5",
