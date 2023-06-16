@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Chelsea-Luevano-Portfolio/static/css/main.f268fcb3.css",
+    "main.js": "/Chelsea-Luevano-Portfolio/static/js/main.3e0758d7.js",
+    "static/js/787.84641a85.chunk.js": "/Chelsea-Luevano-Portfolio/static/js/787.84641a85.chunk.js",
+    "static/media/putasporkinit-co-2023-05-09.png": "/Chelsea-Luevano-Portfolio/static/media/putasporkinit-co-2023-05-09.35e34e1817ee66a89be7.png",
+    "static/media/MoveMe-Scene-Project.png": "/Chelsea-Luevano-Portfolio/static/media/MoveMe-Scene-Project.d63b290059668430119b.png",
+    "static/media/ProfilePic1.jpg": "/Chelsea-Luevano-Portfolio/static/media/ProfilePic1.4e2c05b170a6d58e75cd.jpg",
+    "static/media/github-mark.svg": "/Chelsea-Luevano-Portfolio/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "index.html": "/Chelsea-Luevano-Portfolio/index.html",
+    "main.f268fcb3.css.map": "/Chelsea-Luevano-Portfolio/static/css/main.f268fcb3.css.map",
+    "main.3e0758d7.js.map": "/Chelsea-Luevano-Portfolio/static/js/main.3e0758d7.js.map",
+    "787.84641a85.chunk.js.map": "/Chelsea-Luevano-Portfolio/static/js/787.84641a85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f268fcb3.css",
+    "static/js/main.3e0758d7.js"
+  ]
+}
